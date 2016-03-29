@@ -1,0 +1,19 @@
+NCAA March Madness Predictor
+----------------------------
+
+To people who stumbled across this, beware this is not my best work.  I put together something hacky to read in
+data from a data file and spit out some information about how various NCAA prediction strategies work.
+
+To run it (and see the help text) simply give:
+
+  ./ncaa_simulations.py
+
+Or
+
+  python3 ncaa_simulations.py
+
+A whirl.
+
+The data it is expecting is a CSV file with the schema defined at www.hoopstournament.net/Database.html.
+
+Enjoy!
